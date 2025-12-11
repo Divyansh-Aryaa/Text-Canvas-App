@@ -1,16 +1,28 @@
-# internship_1
 
-A new Flutter project.
+A simple and interactive Flutter-based text-canvas editor that allows users to place, edit, and style text freely on a canvas. The app provides a clean workspace, intuitive controls, and smooth state handling for creative text manipulation.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+Add & Move Text anywhere on the canvas
+Rich Text Styling
+Font size slider
+Font family selection
+Italic toggle
+Real-time updates
+Undo / Redo with smooth and reliable state management
+Responsive & Clean UI built using Flutter’s Stack and Positioned widgets
+Production-ready structure using Flutter + Material Design
 
-A few resources to get you started if this is your first Flutter project:
+🛠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter (Dart)
+Material Design
+Stack / Positioned widgets
+Custom state management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Getting Started
+
+Run the app with:
+flutter pub get
+flutter run
+
